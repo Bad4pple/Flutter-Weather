@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter project.
+It's my first project learned from youtube.
 
 ## Getting Started
 
